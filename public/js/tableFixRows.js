@@ -2,7 +2,7 @@
 makeTableScroll();
 
 function makeTableScroll() {
-    var maxRows = 10;
+    var maxRows = 9;
 
     var table = document.getElementById('donorsTable');
     var wrapper = table.parentNode;

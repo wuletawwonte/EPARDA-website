@@ -191,6 +191,11 @@ fieldset[disabled] .btn-xl.active {
   background-color: #aceb12;
 }
 
+#logoPic {
+  margin-top: -13px;
+  margin-left: 10px;
+}
+
 @media (min-width: 768px) {
     .navbar-custom {
       background-color: transparent;
@@ -272,7 +277,7 @@ header .intro-text a {
       color: white;
     }
     header .intro-text {
-      padding-top: 260px;
+      padding-top: 210px;
       padding-bottom: 200px;
     }
     header .intro-text .intro-lead-in {
@@ -292,6 +297,9 @@ header .intro-text a {
     header .intro-text a {
       background: transparent;
       border: solid #a1db14 3px; 
+    }
+    header .intro-text img {
+      border: double white 1px;
     }
 }
 
