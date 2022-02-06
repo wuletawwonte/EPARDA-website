@@ -1,0 +1,23 @@
+{
+  "name": "eparda-website",
+  "version": "1.0.0",
+  "description": "Eparda.com is the official website of EPaRDA and is currently active on the Internet.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuletawwonte/EPARDA-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuletawwonte/EPARDA-website/issues"
+  },
+  "homepage": "https://github.com/wuletawwonte/EPARDA-website#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
