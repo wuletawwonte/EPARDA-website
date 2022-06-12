@@ -28,11 +28,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Wuletaw Wonte**
 
 - GitHub: [@githubhandle](https://github.com/wuletawwonte)
 - Twitter: [@twitterhandle](https://twitter.com/wuletaww)
