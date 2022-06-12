@@ -8,6 +8,10 @@
 - CSS3
 - Express server for creating local development server
 
+## Screenshot
+
+![EPaRDA website-min](https://user-images.githubusercontent.com/12524453/173236876-03b4066f-2783-4449-af48-cb20f62ed024.png)
+
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
